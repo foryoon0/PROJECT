@@ -210,7 +210,7 @@ $(document).ready(function(){
 	    showOption: function(pos){
 	    	 var show = document.getElementById('showOption('+pos+')');
 			 var cartoption_number =  show.parentElement.nextElementSibling.getAttribute('value');
-			 var url = 'http://localhost:8081/product/cartoption?cartoption_number='+ cartoption_number;
+			 var url = '/product/cartoption?cartoption_number='+ cartoption_number;
 		     var name = "popup";	
 		     var option = "width=500,height=500,top=200,left=200,toolbar=no,menubar=no,scrollbars=no,resizable=no,status=no";
 		    
