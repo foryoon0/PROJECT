@@ -65,15 +65,6 @@
 <img src="https://user-images.githubusercontent.com/92283099/163517278-2b74be8e-a8bd-4bb5-94af-9b78a11002a6.png">
 
 
-
-
-
-## 🚩 system architecture
-
-시스템 아키텍쳐~~
-
-
-
 ## 🌟 기능 소개
 1. Auth 🔐
 ```
