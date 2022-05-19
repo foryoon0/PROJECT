@@ -8,7 +8,11 @@
 <p>밀키트를 판매하는 쇼핑몰 구현을한 프로젝트입니다.</p>
 <p>기간 : 2022-03 ~ 2022-04</p>
 <p> 사이트 주소: http://mealchelin.shop/ </p>
+<p> ID : test04 </p>
+<p> Password : alftbffod2022 (밀슐랭2022) </p> 
+<p> 회원가입을 원치 않으신 분들은 위의 아이디로 로그인이 가능합니다.</p>
 <img src ="https://user-images.githubusercontent.com/92283099/163513494-eb9a0114-bba0-4e34-a19c-3cbada313060.PNG">
+
 
 ## ⭐ 팀원 소개
 #### 🙋윤가영(https://github.com/foryoon0)
